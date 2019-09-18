@@ -3,7 +3,7 @@ Basically, native/ and managed/ are both plugins for the game 'Grand Theft Auto 
 
 For us, the really useful plugin is native/, I guess. Below, I'll briefly talk about how to compile it.
 
-* Install Visual Studio 2019 Community edition; during installation, make sure to check Desktop development with C++ in the Workloads page.
+* Install Visual Studio 2019 Community edition; during installation, make sure to check Desktop development with C++ and Windows 10 SDK in the Workloads page.
 
 * clone this repo
 
